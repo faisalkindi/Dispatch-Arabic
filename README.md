@@ -10,7 +10,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `Dispatch-Arabic-v1.1.0.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `Dispatch-Arabic-v1.1.1.exe`.
 
 ## التثبيت
 
